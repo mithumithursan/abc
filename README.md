@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 |  |
 |----------|:-------------:|------:|
 | col 1 is | left-aligned | $1600 |
 | col 2 is | centered | $12 |
 | col 3 is | right-aligned | $1 |
-
-![A cute kitten](http://placekitten.com/200/300?style=centerme)
+</div>
+<div align="center">![A cute kitten](http://placekitten.com/200/300?style=centerme)</div>
 <div align="justify">The derogatory term “scrub” means several different things. One
 definition is someone (especially a game player) who is not good at something (especially a
 game). By this definition, we all start out as scrubs, and there is certainly no shame in that. I
