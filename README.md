@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![A cute kitten](http://placekitten.com/200/300?style=centerme)
 ## Welcome to GitHub Pages
 ![nice-watercolor-background_24837-261](https://user-images.githubusercontent.com/91019061/133962560-fbb4d289-2956-41c1-92fd-79abb2587b98.jpg)
 
