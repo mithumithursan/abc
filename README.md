@@ -15,6 +15,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+| Tables | Are | Cool |
+|----------|:-------------:|------:|
+| col 1 is | left-aligned | $1600 |
+| col 2 is | centered | $12 |
+| col 3 is | right-aligned | $1 |
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![A cute kitten](http://placekitten.com/200/300?style=centerme)
 <div align="justify">The derogatory term “scrub” means several different things. One
 definition is someone (especially a game player) who is not good at something (especially a
