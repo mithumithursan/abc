@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![A cute kitten](http://placekitten.com/200/300?style=centerme)
-<div align="center">The derogatory term “scrub” means several different things. One
+<div align="justify">The derogatory term “scrub” means several different things. One
 definition is someone (especially a game player) who is not good at something (especially a
 game). By this definition, we all start out as scrubs, and there is certainly no shame in that. I
 mean the term differently, though. A scrub is a player who is handicapped by self-imposed
